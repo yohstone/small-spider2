@@ -9,6 +9,7 @@
 # * @copyright  Copyright (c) yjl(steve stone)
 # * 循环爬取config文件中，urls列表里配置好的网页并解析内容
 # * 默认设置为1天爬取一次，查看页面数据是否更新
+# * 教程请参考：https://steve.blog.csdn.net/article/details/95526888
 # */
 import config
 import function

@@ -8,6 +8,7 @@
 # * @author     yjl(steve stone)
 # * @copyright  Copyright (c) yjl(steve stone)
 # * 配置所需爬取网页及其相应的正则表达式等
+# * 教程请参考：https://steve.blog.csdn.net/article/details/95526888
 # */
 
 # 

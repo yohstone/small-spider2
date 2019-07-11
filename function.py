@@ -7,7 +7,7 @@
 # * @updatetime 
 # * @author     yjl(steve stone)
 # * @copyright  Copyright (c) yjl(steve stone)
-# *
+# * 教程请参考：https://steve.blog.csdn.net/article/details/95526888
 # */
 
 import requests
